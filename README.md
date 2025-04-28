@@ -30,3 +30,6 @@ What You Will Learn
 - Prelimenaries of NumPy for Scientifc Computing
 - Fundamentals of Data Mining (classification, clustering, evaluation metrics)
 
+
+## License
+The license is given in the [License Documentation](License).
